@@ -1,15 +1,21 @@
+# compiled source
 *.class
+
+# packages
+*.jar
+
+# logs and databases
 *.log
 
 # sbt specific
 .cache
 .history
-.lib/
-dist/*
 target/
 lib_managed/
 src_managed/
 project/boot/
+.lib/
+dist/*
 project/plugins/project/
 
 # Scala-IDE specific
