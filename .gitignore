@@ -4,8 +4,9 @@
 # packages
 *.jar
 
-# logs and databases
+# logs and data
 *.log
+data/
 
 # sbt specific
 .cache
