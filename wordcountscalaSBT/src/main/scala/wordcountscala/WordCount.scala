@@ -12,7 +12,7 @@ object WordCount {
 
     // create a SparkContext
     //val sc = new SparkContext("local[*]", "WordCount")
-    //COmentario de David
+    //Comentario de David
     //crear un RDD con el contenido del archivo don-quijote.txt.gz
     
     //val docs = sc.textFile("wordcountscala/data/donquijote.txt")
